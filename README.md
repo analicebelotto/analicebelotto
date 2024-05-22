@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
 Meu nome é Analice
 
@@ -6,10 +6,8 @@ Meu nome é Analice
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo
 
 analicebelotto@gmail.com
 
 @analicebelotto
-
-![descrição do GIF](link GIF do Tenor)
